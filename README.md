@@ -1,4 +1,3 @@
-
 ## <h2 align="center">Hi there, I'm Arpita 👋</h2>
 <p align="center"><b> Aspiring Researcher | Passionate about AI/ML, LLMs, NLP, and Data Science</b></p>
 
@@ -13,6 +12,7 @@
 
 🎓 **BSc in Information & Communication Technology**  
 📍 CGPA: 3.92/4.00 
+
 <hr style="border:1px solid lightgrey;"/>
 
 ### 👩‍🎓 About Me
@@ -52,7 +52,7 @@
 ### 💻 Currently Learning
 - 🐍 Python | 📊 Pandas | 🔢 NumPy | 📈 Seaborn & Matplotlib
 - 📊 I'm also diving deep into Mathematics and Statistics to strengthen my foundation
-  
+
 <hr style="border:1px solid lightgrey;"/>
 
 ### 🔬 What I'm Doing Now
