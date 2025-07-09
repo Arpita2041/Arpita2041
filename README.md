@@ -71,7 +71,7 @@
   <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Numpy_logo_2020.svg/120px-Numpy_logo_2020.svg.png" alt="NumPy" width="48"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" width="48"/>
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="48"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="48"/>
