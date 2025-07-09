@@ -28,7 +28,6 @@
 <hr style="border:1px solid lightgrey;"/>
 
 ## 📡 Connect with Me
-
 <p align="left">
    <a href="https://www.linkedin.com/in/arpita-saha-3769551aa/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
@@ -67,9 +66,22 @@
 
 <hr style="border:1px solid lightgrey;"/>
 
-### 🛠️ Tools & Skills
+## 🛠️ Languages & Tools
+<p>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Numpy_logo_2020.svg/120px-Numpy_logo_2020.svg.png" alt="NumPy" width="48"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="48"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48"/>
+</p>
+
+<!--### 🛠️ Tools & Skills
 - Programming Languages: Python, C, MATLAB
-- Libraries: NumPy, Pandas, Seaborn, Matplotlib <!--Scikit-learn-->
+- Libraries: NumPy, Pandas, Seaborn, Matplotlib--> <!--Scikit-learn-->
 - Tools: Jupyter Notebook, <!--Git &--> GitHub
 <!-- - Fields: ML, LLMs, NLP, Data Science, HCI, Explainable AI-->
 
