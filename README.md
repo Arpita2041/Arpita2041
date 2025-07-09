@@ -9,6 +9,7 @@
 
 ### 👩‍🎓 About Me
 🤝 Open to research collaboration
+
 I'm currently preparing for MS/PhD opportunities, focusing on cutting-edge research in:
 
 - 🤖 Machine Learning & Deep Learning  
@@ -18,8 +19,8 @@ I'm currently preparing for MS/PhD opportunities, focusing on cutting-edge resea
 - 👩‍💻 Human-Computer Interaction (HCI)
 
 ### 💻 Currently Learning
--🐍 Python | 📊 Pandas | 🔢 NumPy | 📈 Seaborn & Matplotlib
--📊 I'm also diving deep into Mathematics and Statistics to strengthen my foundation
+- 🐍 Python | 📊 Pandas | 🔢 NumPy | 📈 Seaborn & Matplotlib
+- 📊 I'm also diving deep into Mathematics and Statistics to strengthen my foundation
 
 ### 🔬 What I'm Doing Now
 - 📓 Building hands-on ML projects using Jupyter Notebooks
