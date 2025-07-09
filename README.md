@@ -1,5 +1,16 @@
+<p align="center">
+  <img src="https://github.com/Arpita2041/Arpita2041/assets/banner.png" alt="Banner" width="100%"/>
+</p>
+
 ## <h2 align="center">Hi there, I'm Arpita 👋</h2>
 <p align="center"><b> Aspiring Researcher | Passionate about AI/ML, LLMs, NLP, and Data Science</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GRE-310-blue" />
+  <img src="https://img.shields.io/badge/IELTS-7.0-success" />
+  <img src="https://img.shields.io/badge/Scholarship-Vice%20Chancellor%202022%2F2023-brightgreen" />
+  <img src="https://img.shields.io/badge/Learning-Python%20%7C%20ML%20%7C%20LLMs-orange" />
+</p>
 
 ### 📚 Education
 
@@ -11,10 +22,9 @@
 
 ### 👩‍🎓 About Me
 - 🤝 Open to research collaboration
-- ✉️ Reach me at: arpitasaha2041@gmail.com
 - I'm currently preparing for MS/PhD opportunities, focusing on cutting-edge research in:
 
-      -- 🤖 Machine Learning & Deep Learning  
+      - 🤖 Machine Learning & Deep Learning  
       - 🧠 Large Language Models (LLMs) & NLP  
       - 🎨 Generative AI  
       - 📊 Data Science 
@@ -55,7 +65,7 @@
 - 📝 Enrolled in online free courses on AI and ML with Python
 - 🌐 Exploring core ML concepts like regression, classification, and clustering
 
-  <hr style="border:1px solid lightgrey;"/>
+<hr style="border:1px solid lightgrey;"/>
 
 ### 🚧 Projects in Progress
 - `Titanic_ML_Classifier`: Basic ML model on Titanic dataset survival prediction
