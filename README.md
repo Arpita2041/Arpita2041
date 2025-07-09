@@ -22,6 +22,15 @@ I'm currently preparing for MS/PhD opportunities, focusing on cutting-edge resea
 
 <hr style="border:1px solid lightgrey;"/>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/arpita-saha-3769551aa/" target="_blank"><img src="https://img.icons8.com/color/30/linkedin.png"/></a>
+  <a href="https://www.facebook.com/saha.arpita.2024/" target="_blank"><img src="https://img.icons8.com/color/30/facebook.png"/></a>
+  <!--<a href="https://www.instagram.com/YOUR_INSTA/" target="_blank"><img src="https://img.icons8.com/color/30/instagram-new--v1.png"/></a>-->
+  <a href="mailto:arpitasaha2041@gmail.com"><img src="https://img.icons8.com/color/30/gmail.png"/></a>
+</p>
+
+<hr style="border:1px solid lightgrey;"/>
+
 ### 💻 Currently Learning
 - 🐍 Python | 📊 Pandas | 🔢 NumPy | 📈 Seaborn & Matplotlib
 - 📊 I'm also diving deep into Mathematics and Statistics to strengthen my foundation
