@@ -80,11 +80,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48"/> 
 </p>
 
-<!--### 🛠️ Tools & Skills
+
+
+<!-- ### 🛠️ Tools & Skills
 - Programming Languages: Python, C, MATLAB
-- Libraries: NumPy, Pandas, Seaborn, Matplotlib <!--Scikit-learn-->
-- Tools: Jupyter Notebook, <!--Git &--> GitHub -->
-<!-- - Fields: ML, LLMs, NLP, Data Science, HCI, Explainable AI-->
+- Libraries: NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn
+- Tools: Jupyter Notebook, Git & GitHub
+- Fields: ML, LLMs, NLP, Data Science, HCI, Explainable AI -->
 
 <hr style="border:1px solid lightgrey;"/>
 
