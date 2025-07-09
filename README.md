@@ -22,11 +22,24 @@ I'm currently preparing for MS/PhD opportunities, focusing on cutting-edge resea
 
 <hr style="border:1px solid lightgrey;"/>
 
+## 📡 Connect with Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/arpita-saha-3769551aa/" target="_blank"><img src="https://img.icons8.com/color/30/linkedin.png"/></a>
-  <a href="https://www.facebook.com/saha.arpita.2024/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/></a>
-  <!--<a href="https://www.instagram.com/YOUR_INSTA/" target="_blank"><img src="https://img.icons8.com/color/30/instagram-new--v1.png"/></a>-->
-  <a href="mailto:arpitasaha2041@gmail.com"><img src="https://img.icons8.com/color/30/gmail.png"/></a>
+   <a href="https://www.linkedin.com/in/arpita-saha-3769551aa/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/saha.arpita.2024/" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook"/>
+  </a>
+  <a href="mailto:arpitasaha2041@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=HBB-dD0AAAAJ&hl=en" target="_blank">
+    <img src="https://img.icons8.com/color/48/google-scholar.png" alt="Google Scholar"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Arpita-Saha-15?ev=hdr_xprf" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/0081CB/researchgate.png" alt="ResearchGate"/>
+  </a>
 </p>
 
 <hr style="border:1px solid lightgrey;"/>
