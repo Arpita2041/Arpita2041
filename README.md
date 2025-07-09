@@ -35,7 +35,7 @@ I'm currently preparing for MS/PhD opportunities, focusing on cutting-edge resea
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
   </a>
   <a href="https://scholar.google.com/citations?user=HBB-dD0AAAAJ&hl=en" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Scholar_logo.png" alt="Google Scholar" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" width="40"/>
 </a>
    <a href="https://www.researchgate.net/profile/Arpita-Saha-15?ev=hdr_xprf" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" width="40"/>
