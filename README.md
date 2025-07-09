@@ -14,7 +14,7 @@
 - ✉️ Reach me at: arpitasaha2041@gmail.com
 - I'm currently preparing for MS/PhD opportunities, focusing on cutting-edge research in:
 
-      - 🤖 Machine Learning & Deep Learning  
+      -- 🤖 Machine Learning & Deep Learning  
       - 🧠 Large Language Models (LLMs) & NLP  
       - 🎨 Generative AI  
       - 📊 Data Science 
@@ -47,7 +47,7 @@
 ### 💻 Currently Learning
 - 🐍 Python | 📊 Pandas | 🔢 NumPy | 📈 Seaborn & Matplotlib
 - 📊 I'm also diving deep into Mathematics and Statistics to strengthen my foundation
-- 
+  
 <hr style="border:1px solid lightgrey;"/>
 
 ### 🔬 What I'm Doing Now
