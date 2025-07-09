@@ -10,15 +10,15 @@
 <hr style="border:1px solid lightgrey;"/>
 
 ### 👩‍🎓 About Me
-🤝 Open to research collaboration
-✉️ Reach me at: arpitasaha2041@gmail.com
-I'm currently preparing for MS/PhD opportunities, focusing on cutting-edge research in:
+- 🤝 Open to research collaboration
+- ✉️ Reach me at: arpitasaha2041@gmail.com
+- I'm currently preparing for MS/PhD opportunities, focusing on cutting-edge research in:
 
-- 🤖 Machine Learning & Deep Learning  
-- 🧠 Large Language Models (LLMs) & NLP  
-- 🎨 Generative AI  
-- 📊 Data Science 
-- 👩‍💻 Human-Computer Interaction (HCI)
+      - 🤖 Machine Learning & Deep Learning  
+      - 🧠 Large Language Models (LLMs) & NLP  
+      - 🎨 Generative AI  
+      - 📊 Data Science 
+      - 👩‍💻 Human-Computer Interaction (HCI)
 
 <hr style="border:1px solid lightgrey;"/>
 
@@ -37,10 +37,6 @@ I'm currently preparing for MS/PhD opportunities, focusing on cutting-edge resea
   <a href="https://scholar.google.com/citations?user=HBB-dD0AAAAJ&hl=en" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" width="40"/>
    </a>
-   <a href="https://scholar.google.com/citations?user=HBB-dD0AAAAJ&hl=en" target="_blank">
-  <img src="https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar" width="40"/>
-   </a>
-   
    <a href="https://www.researchgate.net/profile/Arpita-Saha-15?ev=hdr_xprf" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" width="40"/>
 </a>
