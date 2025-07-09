@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arpita2041&show_icons=true&theme=default" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpita2041&layout=compact&theme=default" width="300"/>
+</p>
+
 ## <h2 align="center">Hi there, I'm Arpita 👋</h2>
 <p align="center"><b> Aspiring Researcher | Passionate about AI/ML, LLMs, NLP, and Data Science</b></p>
 
