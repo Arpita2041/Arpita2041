@@ -76,14 +76,15 @@
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="48"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual" width="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2022.svg" alt="Visual Studio" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48"/> 
 </p>
 
 <!--### 🛠️ Tools & Skills
 - Programming Languages: Python, C, MATLAB
 - Libraries: NumPy, Pandas, Seaborn, Matplotlib <!--Scikit-learn-->
-- Tools: Jupyter Notebook, <!--Git &--> GitHub-->
+- Tools: Jupyter Notebook, <!--Git &--> GitHub -->
 <!-- - Fields: ML, LLMs, NLP, Data Science, HCI, Explainable AI-->
 
 <hr style="border:1px solid lightgrey;"/>
