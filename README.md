@@ -7,6 +7,8 @@
 📍 CGPA: 3.92/4.00 | Vice Chancellor's Scholar (2022, 2023)  
 🧠 GRE: 310 (Q: 168) | IELTS: 7.0  
 
+<hr style="border:1px solid lightgrey;"/>
+
 ### 👩‍🎓 About Me
 🤝 Open to research collaboration
 
@@ -18,17 +20,25 @@ I'm currently preparing for MS/PhD opportunities, focusing on cutting-edge resea
 - 📊 Data Science 
 - 👩‍💻 Human-Computer Interaction (HCI)
 
+<hr style="border:1px solid lightgrey;"/>
+
 ### 💻 Currently Learning
 - 🐍 Python | 📊 Pandas | 🔢 NumPy | 📈 Seaborn & Matplotlib
 - 📊 I'm also diving deep into Mathematics and Statistics to strengthen my foundation
+- 
+<hr style="border:1px solid lightgrey;"/>
 
 ### 🔬 What I'm Doing Now
 - 📓 Building hands-on ML projects using Jupyter Notebooks
 - 📝 Enrolled in online free courses on AI and ML with Python
 - 🌐 Exploring core ML concepts like regression, classification, and clustering
 
+  <hr style="border:1px solid lightgrey;"/>
+
 ### 🚧 Projects in Progress
 - `Titanic_ML_Classifier`: Basic ML model on Titanic dataset survival prediction
+
+<hr style="border:1px solid lightgrey;"/>
 
 ### 🛠️ Tools & Skills
 - Programming Languages: Python, C, MATLAB
@@ -36,6 +46,7 @@ I'm currently preparing for MS/PhD opportunities, focusing on cutting-edge resea
 - Tools: Jupyter Notebook, <!--Git &--> GitHub
 <!-- - Fields: ML, LLMs, NLP, Data Science, HCI, Explainable AI-->
 
+<hr style="border:1px solid lightgrey;"/>
 
 <!--
 - `llm-prompt-lab`: Small NLP project using GPT-style models
