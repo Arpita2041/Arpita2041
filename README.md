@@ -4,14 +4,14 @@
 ### 📚 Education
 
 🎓 **BSc in Information & Communication Technology**  
-📍 CGPA: 3.92/4.00 | Vice Chancellor's Scholar (2022, 2023)  
+📍 CGPA: 3.92/4.00 | 🏅Vice Chancellor's Scholar (2022, 2023)  
 🧠 GRE: 310 (Q: 168) | IELTS: 7.0  
 
 <hr style="border:1px solid lightgrey;"/>
 
 ### 👩‍🎓 About Me
 🤝 Open to research collaboration
-
+✉️ Reach me at: arpitasaha2041@gmail.com
 I'm currently preparing for MS/PhD opportunities, focusing on cutting-edge research in:
 
 - 🤖 Machine Learning & Deep Learning  
