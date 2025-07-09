@@ -1,4 +1,8 @@
-## <h2 align="center">Hi there, I'm Arpita Saha 👋</h2>
+## <h2 align="center">Hi there, I'm Arpita 👋</h2>
+🎓 Aspiring AI/ML Researcher | Fall 2026 Graduate School Applicant  
+📍 BSc in ICT, CGPA: 3.92/4.00 | Vice Chancellor's Scholar  
+📌 GRE: 310 (Q:168) | IELTS: 7.0  
+
 
 
 <!--
