@@ -14,9 +14,11 @@
 🎓 **BSc in Information & Communication Technology**  
 📍 CGPA: 3.92/4.00 | 🏅Vice Chancellor's Scholar (2022, 2023)  
 <p align="center">
-  <img src="https://github.com/Arpita2041/Arpita2041/assets/banner.png" alt="Banner" width="100%"/>
+  <img src="https://img.shields.io/badge/GRE-310-blue" />
+  <img src="https://img.shields.io/badge/IELTS-7.0-success" />
+  <img src="https://img.shields.io/badge/Scholarship-🏅Vice%20Chancellor%202022,%202023-brightgreen" />
+  <img src="https://img.shields.io/badge/Learning-Python%20%7C%20ML%20%7C%20LLMs-orange" />
 </p>
-
 🧠 GRE: 310 (Q: 168) | IELTS: 7.0  
 
 <hr style="border:1px solid lightgrey;"/>
