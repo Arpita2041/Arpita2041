@@ -1,4 +1,5 @@
-## Hi there 👋
+## <h2 align="center">Hi there, I'm Arpita Saha 👋</h2>
+
 
 <!--
 **Arpita2041/Arpita2041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
