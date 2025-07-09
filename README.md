@@ -1,5 +1,10 @@
 ## <h2 align="center">Hi there, I'm Arpita 👋</h2>
-<p align="center">Aspiring Researcher | Passionate about AI/ML, LLMs, NLP, and Data Science</p>
+<p align="center"><b> Aspiring Researcher | Passionate about AI/ML, LLMs, NLP, and Data Science</b></p>
+---
+
+🎓 **BSc in Information & Communication Technology**  
+📍 CGPA: 3.92/4.00 | Vice Chancellor's Scholar (2022, 2023)  
+🧠 GRE: 310 (Q: 168) | IELTS: 7.0  
 
 
 
