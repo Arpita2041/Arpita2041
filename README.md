@@ -35,11 +35,11 @@ I'm currently preparing for MS/PhD opportunities, focusing on cutting-edge resea
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
   </a>
   <a href="https://scholar.google.com/citations?user=HBB-dD0AAAAJ&hl=en" target="_blank">
-    <img src="https://img.icons8.com/color/48/google-scholar.png" alt="Google Scholar"/>
-  </a>
-  <a href="https://www.researchgate.net/profile/Arpita-Saha-15?ev=hdr_xprf" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/48/0081CB/researchgate.png" alt="ResearchGate"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Scholar_logo.png" alt="Google Scholar" width="40"/>
+</a>
+   <a href="https://www.researchgate.net/profile/Arpita-Saha-15?ev=hdr_xprf" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" width="40"/>
+</a>
 </p>
 
 <hr style="border:1px solid lightgrey;"/>
