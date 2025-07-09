@@ -8,6 +8,7 @@
 🧠 GRE: 310 (Q: 168) | IELTS: 7.0  
 
 ### 👩‍🎓 About Me
+🤝 Open to research collaboration
 I'm currently preparing for MS/PhD opportunities, focusing on cutting-edge research in:
 
 - 🤖 Machine Learning & Deep Learning  
@@ -18,11 +19,31 @@ I'm currently preparing for MS/PhD opportunities, focusing on cutting-edge resea
 
 ### 💻 Currently Learning
 -🐍 Python | 📊 Pandas | 🔢 NumPy | 📈 Seaborn & Matplotlib
+-📊 I'm also diving deep into Mathematics and Statistics to strengthen my foundation
 
 ### 🔬 What I'm Doing Now
 - 📓 Building hands-on ML projects using Jupyter Notebooks
 - 📝 Enrolled in online free courses on AI and ML with Python
 - 🌐 Exploring core ML concepts like regression, classification, and clustering
+
+### 🚧 Projects in Progress
+- `Titanic_ML_Classifier`: Basic ML model on Titanic dataset survival prediction
+
+### 🛠️ Tools & Skills
+- Programming Languages: Python, C, MATLAB
+- Libraries: NumPy, Pandas, Seaborn, Matplotlib <!--Scikit-learn-->
+- Tools: Jupyter Notebook, <!--Git &--> GitHub
+<!-- - Fields: ML, LLMs, NLP, Data Science, HCI, Explainable AI-->
+
+
+<!--
+- `llm-prompt-lab`: Small NLP project using GPT-style models
+-  Prompt engineering demo with ChatGPT
+-  Text classifier using Hugging Face Transformers 
+- `covid19-data-eda`: Data analysis on COVID trends in Bangladesh  (COVID-19 dataset analysis using Pandas & Matplotlib)
+- `ml-notes`: Learning notes on key AI/ML concepts     
+-->
+
 
 <!--
 🔍 Performing exploratory data analysis (EDA) on public datasets
