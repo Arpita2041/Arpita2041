@@ -46,11 +46,10 @@ I'm currently preparing for MS/PhD opportunities, focusing on cutting-edge resea
 - Tools: Jupyter Notebook, <!--Git &--> GitHub
 <!-- - Fields: ML, LLMs, NLP, Data Science, HCI, Explainable AI-->
 
-
+<hr style="border:1px solid lightgrey;"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arpita2041&show_icons=true&theme=default" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpita2041&layout=compact&theme=default" width="300"/>
 </p>
 
 
