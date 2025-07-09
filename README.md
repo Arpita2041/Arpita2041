@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/GRE-310-blue" />
   <img src="https://img.shields.io/badge/IELTS-7.0-success" />
-  <img src="https://img.shields.io/badge/Scholarship-Vice%20Chancellor%202022%2F2023-brightgreen" />
+  <img src="https://img.shields.io/badge/Scholarship-Vice%20Chancellor%202022%202023-brightgreen" />
   <img src="https://img.shields.io/badge/Learning-Python%20%7C%20ML%20%7C%20LLMs-orange" />
 </p>
 
