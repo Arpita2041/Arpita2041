@@ -56,14 +56,14 @@
 <hr style="border:1px solid lightgrey;"/>
 
 ### 🔬 What I'm Doing Now
-- 📓 Building hands-on ML projects using Jupyter Notebooks
+<!-- - 📓 Building hands-on ML projects using Jupyter Notebooks-->
 - 📝 Enrolled in online free courses on AI and ML with Python
 - 🌐 Exploring core ML concepts like regression, classification, and clustering
 
 <hr style="border:1px solid lightgrey;"/>
 
-### 🚧 Projects in Progress
-- `Titanic_ML_Classifier`: Basic ML model on Titanic dataset survival prediction
+<!--### 🚧 Projects in Progress
+- `Titanic_ML_Classifier`: Basic ML model on Titanic dataset survival prediction-->
 
 <hr style="border:1px solid lightgrey;"/>
 
