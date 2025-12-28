@@ -56,9 +56,9 @@
 <hr style="border:1px solid lightgrey;"/>
 
 ### 🔬 What I'm Doing Now
-<!-- - 📓 Building hands-on ML projects using Jupyter Notebooks-->
 - 📝 Enrolled in online free courses on AI and ML with Python
 - 🌐 Exploring core ML concepts like regression, classification, and clustering
+- 📓 Building hands-on ML projects using Jupyter Notebooks
 
 <hr style="border:1px solid lightgrey;"/>
 
