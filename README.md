@@ -91,13 +91,13 @@
 
 <hr style="border:1px solid lightgrey;"/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arpita2041&show_icons=true&theme=default" width="400"/>
 </p>
 
 
 
-<hr style="border:1px solid lightgrey;"/>
+<hr style="border:1px solid lightgrey;"/>-->
 
 <!--
 - `llm-prompt-lab`: Small NLP project using GPT-style models
