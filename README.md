@@ -18,6 +18,7 @@
 
 ### 👩‍🎓 About Me
 - 🤝 Open to research collaboration
+- Remotely joined as a Research Collaborator at the Elite Research Lab
 - I'm currently preparing for MS/PhD opportunities, focusing on cutting-edge research in:
 
       - 🤖 Machine Learning & Deep Learning  
@@ -51,6 +52,7 @@
 
 ### 💻 Currently Learning
 - 🐍 Python | 📊 Pandas | 🔢 NumPy | 📈 Seaborn & Matplotlib
+- 📝 Currently working on multimodal learning related research tasks, particularly in healthcare.
 - 📊 I'm also diving deep into Mathematics and Statistics to strengthen my foundation
 
 <hr style="border:1px solid lightgrey;"/>
