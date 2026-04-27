@@ -52,7 +52,7 @@
 
 ### 💻 Currently Learning
 - 🐍 Python | 📊 Pandas | 🔢 NumPy | 📈 Seaborn & Matplotlib
-- 📝 Currently working on multimodal learning related research tasks, particularly in healthcare.
+- 📝 Currently working on Multimodal Learning related research tasks, particularly in healthcare.
 - 📊 I'm also diving deep into Mathematics and Statistics to strengthen my foundation
 
 <hr style="border:1px solid lightgrey;"/>
